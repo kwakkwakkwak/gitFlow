@@ -6,5 +6,6 @@ test = 1;
 
 console.log(test + test2);
 
-
-const test3 = 101010;
+1
+2
+3
