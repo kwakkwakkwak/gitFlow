@@ -7,5 +7,6 @@
 *.iml
 out
 gen
-.gitignore
-.idea/
+.idea/markdown-navigator/*
+
+.idea/*
