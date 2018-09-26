@@ -13,3 +13,5 @@ console.log(test + test2);
 5
 7
 8
+9
+9
